@@ -1,4 +1,4 @@
-# rpn
+# RPN
 A excercise for a question from interview
 
 ### Requirements
