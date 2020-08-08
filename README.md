@@ -27,3 +27,15 @@ ie . no engineering
 operator <operator> (position: <pos>): insufficient parameters
 * After displaying the warning, all further processing of the string terminates and the current state of the stack is display
 ed.
+
+
+### Usage
+For windows, clone and cd in and execute the start.bat
+```batch
+./start.bat
+```
+
+For Linux, clone and cd in and execute the start.sh
+```bash
+./start.sh
+```
