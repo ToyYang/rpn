@@ -28,3 +28,6 @@ rpn.iml
 
 cli/target
 core/target
+
+cli/*.iml
+core/*.iml
